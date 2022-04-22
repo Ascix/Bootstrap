@@ -1,0 +1,101 @@
+body {
+    background-color: #343a40;
+}
+
+a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+    color: #D72323;
+}
+
+.dropdown-item {
+    color:#D72323;
+}
+#logo {
+    padding-left: 16%;
+}
+.Huyen {
+    font-family: 'PT Mono', monospace;
+    color: #D72323
+}
+span {
+    font-family: 'Beau Rivage', cursive;
+    font-size: 80%;
+    color: #EEEEEE;
+    margin-left: 12%;
+}
+
+h1 {
+    display: flex;
+    font-size: 50px;
+    justify-content: center;
+    color: #D72323;
+
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color:#D72323;
+
+}
+
+h3 {
+    display: flex;
+    color:#D72323;
+
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    color:#EEEEEE;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    list-style: none
+}
+
+li {
+    color: #EEEEEE;
+}
+.front-page {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.top {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    background-color: #3A4750;
+
+}
+
+.pho {
+    width: 700px;
+    height: auto;
+}
+.background{
+    display: block;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar .bg-dark {
+    background-color: #FC5185;
+}
+
+.carousel {
+    width: 300px;
+    height: auto;
+}
